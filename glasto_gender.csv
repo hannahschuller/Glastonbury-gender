@@ -238,7 +238,7 @@ Year,Artist,Gender
 2016,Bat for Lashes,F
 2016,Mystery Jets,M
 2016,Matt Corby,M
-2016,Tired Lion,F
+2016,Tired Lion,M
 2016,She Drew the Gun,F
 2016,Richard Hawley,M
 2016,Savages,F
@@ -246,10 +246,10 @@ Year,Artist,Gender
 2016,Daughter,F
 2016,Ezra Furman,NB
 2016,Unknown Mortal Orchestra,M
-2016,Nao,F
+2016,Nao,M
 2016,Night Beats,M
 2016,Declan McKenna,M
-2016,Gwenno Saunders,F
+2016,Gwenno Saunders,M
 2016,Philip Glass'Heroes Symphony,M
 2016,Mercury Rev,M
 2016,Floating Points,M
@@ -776,14 +776,14 @@ Year,Artist,Gender
 2024,Keane,M
 2024,Cyndi Lauper,F
 2024,Ayra Starr,F
-2024,Femi Kuti,M
+2024,Femi Kuti,F
 2024,SZA,F
 2024,Burna Boy,M
 2024,Janelle Monae,F
 2024,Shania Twain,F
 2024,Paloma Faith,F
 2024,Seasick Steve,M
-2024,Interlinked byBirmingham Royal Ballet,M
+2024,Interlinked byBirmingham Royal Ballet,F
 2024,Idles,M
 2024,D-Block Europe,M
 2024,Anne Marie,F
@@ -807,7 +807,7 @@ Year,Artist,Gender
 2024,James,M
 2024,Soft Play,M
 2024,Rachel Chinouriri,F
-2024,The Zutons,M
+2024,The Zutons,F
 2024,Jungle,M
 2024,Heilung,M
 2024,Danny Brown,M
@@ -822,7 +822,7 @@ Year,Artist,Gender
 2024,Nitin Sawhney,M
 2024,Corrine Bailey Rae,F
 2024,Alogte Oho & His Sounds of Joy,M
-2024,The Skatalites,M
+2024,The Skatalites,F
 2024,47SOUL,M
 2024,Justice,M
 2024,Nia Archives,F
@@ -881,7 +881,7 @@ Year,Artist,Gender
 2024,Mount Kimbie,M
 2024,Baxter Dury,M
 2024,Mdou Moctar,M
-2024,Psychedelic Porn Crumpets,M
+2024,Psychedelic Porn Crumpets,F
 2024,Lime Garden,F
 2024,Problem Patterns,F
 2025,The 1975,M
@@ -926,7 +926,7 @@ Year,Artist,Gender
 2025,Snow Patrol,M
 2025,Turnstile,M
 2025,Joy Crookes,F
-2025,Shaboozey,M
+2025,Shaboozey,F
 2025,Nadine Shah,F
 2025,Louis Dunford,M
 2025,Maribou State,M
@@ -965,7 +965,7 @@ Year,Artist,Gender
 2025,Scissor Sisters,F
 2025,Tom Odell,M
 2025,Father John Misty,M
-2025,TV On The Radio,M
+2025,TV On The Radio,F
 2025,Nova Twins,F
 2025,JADE,F
 2025,Fcukers,F
@@ -1003,5 +1003,5 @@ Year,Artist,Gender
 2025,Girl In Red,F
 2025,Royel Otis,F
 2025,Katy J Pearson,F
-2025,Geordie Greep,M
-2025,Melin Melyn,M
+2025,Geordie Greep,F
+2025,Melin Melyn,F
